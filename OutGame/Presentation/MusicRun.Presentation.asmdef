@@ -1,0 +1,22 @@
+{
+    "name": "MusicRun.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1c1a11594ca3739479dbcac922d2a9d1",
+        "GUID:74457b4c5fb653e469cb9df61eb0859c",
+        "GUID:2359c074672083046b6ff6b309700f8e",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
